@@ -1,9 +1,5 @@
 # Horizon Visual Studio Theme
 
-<Badges ref ="https://github.com/Denellyne/Horizon/releases/tag/Latest">
-    <img width = 120 align="center" src="https://img.shields.io/github/downloads/Denellyne/Horizon/total.svg">
-<Badges\>
-
 Embrace this new theme for visual studio and VSCode
 
 ![image](https://github.com/Denellyne/Horizon/assets/56112881/a2969ce1-611c-4e06-b0fe-38d3cf295b98)
